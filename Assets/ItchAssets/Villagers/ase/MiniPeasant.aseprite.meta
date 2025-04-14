@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: aeef01720a94af94faf4b759ff6c74e4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MiniPeasant_Frame_0
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 4
+      width: 13
+      height: 14
+    spriteID: 95a159ed2ac236d48be8e728cf048745
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 4}
+  - name: MiniPeasant_Frame_1
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 26
+      width: 13
+      height: 14
+    spriteID: bef5bb4f268266f48b4a1593b34c53d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 26}
+  - name: MiniPeasant_Frame_2
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 48
+      width: 13
+      height: 14
+    spriteID: 55aa464da87f2a144bc363df0990d0d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 48}
+  - name: MiniPeasant_Frame_3
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 70
+      width: 13
+      height: 14
+    spriteID: abbb2aa33ba4bcf44af7ce4815d6a01e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 70}
+  - name: MiniPeasant_Frame_4
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 140
+      width: 15
+      height: 14
+    spriteID: de709862ca3bedc4a9aa4344d1596e04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 140}
+  - name: MiniPeasant_Frame_5
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 92
+      width: 13
+      height: 14
+    spriteID: f4f02dda69e6003448058aebd5ac4901
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 92}
+  - name: MiniPeasant_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 26
+      width: 12
+      height: 15
+    spriteID: 619f111d9286a06459c857a0968403a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 26}
+  - name: MiniPeasant_Frame_7
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 70
+      width: 11
+      height: 14
+    spriteID: fe135ccf97111854284e93d49cde4514
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 70}
+  - name: MiniPeasant_Frame_8
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 114
+      width: 13
+      height: 14
+    spriteID: 3fbc1316b108c5d4792274a33f29858d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 114}
+  - name: MiniPeasant_Frame_9
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 74
+      width: 15
+      height: 15
+    spriteID: ea18d0eefd3f6da41a9d68187f4d0b47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 74}
+  - name: MiniPeasant_Frame_10
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 25
+      width: 15
+      height: 16
+    spriteID: 03095f711b675a9409ccb3fc95787353
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 25}
+  - name: MiniPeasant_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 49
+      width: 14
+      height: 17
+    spriteID: 909f78fc66519814f9ef67aeda7527eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 49}
+  - name: MiniPeasant_Frame_12
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 136
+      width: 13
+      height: 14
+    spriteID: becb379248ec56a4cad4d85a64720281
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 136}
+  - name: MiniPeasant_Frame_13
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 158
+      width: 13
+      height: 14
+    spriteID: e6284993266de2c4eb788c06b6c5832a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 158}
+  - name: MiniPeasant_Frame_14
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 180
+      width: 13
+      height: 14
+    spriteID: 299df6cb82bef0940a6b630699cd3af4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 180}
+  - name: MiniPeasant_Frame_15
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 49
+      width: 13
+      height: 13
+    spriteID: af702659caec0014695a973e336a573e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 49}
+  - name: MiniPeasant_Frame_16
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 184
+      width: 15
+      height: 13
+    spriteID: ef7c38537e41bbe4f9c311c98b8d8efd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 184}
+  - name: MiniPeasant_Frame_17
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 205
+      width: 15
+      height: 13
+    spriteID: bd7e6d76793573649b1041fbe7386642
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 205}
+  - name: MiniPeasant_Frame_18
+    originalName: 
+    pivot: {x: 0.23529412, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 119
+      width: 17
+      height: 13
+    spriteID: 9ed736e8b0d7c484b8baa8d81eb45b8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 119}
+  - name: MiniPeasant_Frame_19
+    originalName: 
+    pivot: {x: 0.21052632, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 19
+      height: 13
+    spriteID: 733a313a56e320241a9c9e4c1f9a56d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MiniPeasant_Frame_20
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 226
+      width: 15
+      height: 13
+    spriteID: f63f70bd4c5b6e54998cfcadf37591ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 226}
+  - name: MiniPeasant_Frame_21
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 202
+      width: 13
+      height: 14
+    spriteID: 3893e65e2b8ac1849b9d47716843d91c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 202}
+  - name: MiniPeasant_Frame_22
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 224
+      width: 13
+      height: 14
+    spriteID: 663f6e8a21df33f4b9db9291441a47b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 224}
+  - name: MiniPeasant_Frame_23
+    originalName: 
+    pivot: {x: 0.625, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 97
+      width: 16
+      height: 14
+    spriteID: 25f3030b6cab673479104fd223355fc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 97}
+  - name: MiniPeasant_Frame_24
+    originalName: 
+    pivot: {x: 0.6, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 162
+      width: 15
+      height: 14
+    spriteID: 6c8d5ae61293bc342aaaecc7d9acd72c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 162}
+  - name: MiniPeasant_Frame_25
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 4
+      width: 13
+      height: 14
+    spriteID: 5e632e4c9c153a442b49badac7e63728
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 4}
+  - name: MiniPeasant_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 4
+      width: 14
+      height: 12
+    spriteID: aa5d1c672a35f77478c1da0f6f7745bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 4}
+  - name: MiniPeasant_Frame_27
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 4
+      width: 15
+      height: 10
+    spriteID: 9c906b9658a4f2041a11362954e58557
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 4}
+  - name: MiniPeasant_Frame_28
+    originalName: 
+    pivot: {x: 0.47058824, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 22
+      width: 17
+      height: 6
+    spriteID: 040f0666125431040a59ad0e508fc875
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 22}
+  - name: MiniPeasant_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 247
+      width: 18
+      height: 4
+    spriteID: b6ac19ec5d677bd44945f6186a6c33cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 247}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1182386007
+    name: MiniPeasant
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MiniPeasant_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 95a159ed2ac236d48be8e728cf048745
+    - name: MiniPeasant_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: bef5bb4f268266f48b4a1593b34c53d5
+    - name: MiniPeasant_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 55aa464da87f2a144bc363df0990d0d4
+    - name: MiniPeasant_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: abbb2aa33ba4bcf44af7ce4815d6a01e
+    - name: MiniPeasant_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 14
+      spriteId: de709862ca3bedc4a9aa4344d1596e04
+    - name: MiniPeasant_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: f4f02dda69e6003448058aebd5ac4901
+    - name: MiniPeasant_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 15
+      spriteId: 619f111d9286a06459c857a0968403a0
+    - name: MiniPeasant_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: fe135ccf97111854284e93d49cde4514
+    - name: MiniPeasant_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 3fbc1316b108c5d4792274a33f29858d
+    - name: MiniPeasant_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 15
+      spriteId: ea18d0eefd3f6da41a9d68187f4d0b47
+    - name: MiniPeasant_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 16
+      spriteId: 03095f711b675a9409ccb3fc95787353
+    - name: MiniPeasant_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 17
+      spriteId: 909f78fc66519814f9ef67aeda7527eb
+    - name: MiniPeasant_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: becb379248ec56a4cad4d85a64720281
+    - name: MiniPeasant_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: e6284993266de2c4eb788c06b6c5832a
+    - name: MiniPeasant_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 299df6cb82bef0940a6b630699cd3af4
+    - name: MiniPeasant_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 10
+        y: 1
+        width: 13
+        height: 13
+      spriteId: af702659caec0014695a973e336a573e
+    - name: MiniPeasant_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 9
+        y: 1
+        width: 15
+        height: 13
+      spriteId: ef7c38537e41bbe4f9c311c98b8d8efd
+    - name: MiniPeasant_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 13
+      spriteId: bd7e6d76793573649b1041fbe7386642
+    - name: MiniPeasant_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 12
+        y: 1
+        width: 17
+        height: 13
+      spriteId: 9ed736e8b0d7c484b8baa8d81eb45b8d
+    - name: MiniPeasant_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 12
+        y: 1
+        width: 19
+        height: 13
+      spriteId: 733a313a56e320241a9c9e4c1f9a56d4
+    - name: MiniPeasant_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 11
+        y: 1
+        width: 15
+        height: 13
+      spriteId: f63f70bd4c5b6e54998cfcadf37591ce
+    - name: MiniPeasant_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 3893e65e2b8ac1849b9d47716843d91c
+    - name: MiniPeasant_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 663f6e8a21df33f4b9db9291441a47b7
+    - name: MiniPeasant_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 6
+        y: 1
+        width: 16
+        height: 14
+      spriteId: 25f3030b6cab673479104fd223355fc7
+    - name: MiniPeasant_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 7
+        y: 1
+        width: 15
+        height: 14
+      spriteId: 6c8d5ae61293bc342aaaecc7d9acd72c
+    - name: MiniPeasant_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 5e632e4c9c153a442b49badac7e63728
+    - name: MiniPeasant_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 12
+      spriteId: aa5d1c672a35f77478c1da0f6f7745bc
+    - name: MiniPeasant_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 10
+        y: 1
+        width: 15
+        height: 10
+      spriteId: 9c906b9658a4f2041a11362954e58557
+    - name: MiniPeasant_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 8
+        y: 1
+        width: 17
+        height: 6
+      spriteId: 040f0666125431040a59ad0e508fc875
+    - name: MiniPeasant_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 7
+        y: 1
+        width: 18
+        height: 4
+      spriteId: b6ac19ec5d677bd44945f6186a6c33cb
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

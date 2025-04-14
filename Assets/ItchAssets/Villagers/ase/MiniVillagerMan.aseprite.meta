@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: ff7fd248d48b3e742948f11ffc7976a0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MiniVillagerMan_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 25
+      width: 12
+      height: 13
+    spriteID: 98e8fc4c65933f54eb40fecc362483db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 25}
+  - name: MiniVillagerMan_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 68
+      width: 12
+      height: 12
+    spriteID: 91100a5f71203e4488412930173edb63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 68}
+  - name: MiniVillagerMan_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 88
+      width: 12
+      height: 12
+    spriteID: a006202410a77c24185399f8f68066ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 88}
+  - name: MiniVillagerMan_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 46
+      width: 12
+      height: 13
+    spriteID: 95a80cb6bb6bde744809d35560d30387
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 46}
+  - name: MiniVillagerMan_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 112
+      width: 14
+      height: 12
+    spriteID: 808d6d6aebcf76e41a90a94501809216
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 112}
+  - name: MiniVillagerMan_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 67
+      width: 12
+      height: 13
+    spriteID: 919c77fc3c03f7648b18d719a3d89a61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 67}
+  - name: MiniVillagerMan_Frame_6
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 46
+      width: 11
+      height: 14
+    spriteID: fb3ea0eb5242ea34883086b02ae72689
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 46}
+  - name: MiniVillagerMan_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 108
+      width: 10
+      height: 12
+    spriteID: 89545a6a534153f44933aa7d621ee3a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 108}
+  - name: MiniVillagerMan_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 88
+      width: 12
+      height: 13
+    spriteID: f562ad86ea29ef14195971a937d70c0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 88}
+  - name: MiniVillagerMan_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 14
+      height: 14
+    spriteID: 1912340061903ca4ebf5ce8b871e2f07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MiniVillagerMan_Frame_10
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 48
+      width: 13
+      height: 14
+    spriteID: 2e1d148cdb178864d9efd2e66676851b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 48}
+  - name: MiniVillagerMan_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 26
+      width: 14
+      height: 14
+    spriteID: 49af345654aeedf4ea1c6243d9a028e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 26}
+  - name: MiniVillagerMan_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 4
+      width: 14
+      height: 11
+    spriteID: a6f92707903746248973438ab7ecd593
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 4}
+  - name: MiniVillagerMan_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 109
+      width: 12
+      height: 13
+    spriteID: 46186a1e9695bc046ba33925f2660cde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 109}
+  - name: MiniVillagerMan_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 4
+      width: 12
+      height: 13
+    spriteID: 303fdd2e674630944a6f49c4b291b072
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 4}
+  - name: MiniVillagerMan_Frame_15
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 70
+      width: 13
+      height: 13
+    spriteID: d130a344e11f9374687162b5814225af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 70}
+  - name: MiniVillagerMan_Frame_16
+    originalName: 
+    pivot: {x: 0.6, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 26
+      y: 4
+      width: 15
+      height: 13
+    spriteID: 5be6052b41dfd4a45bad05d8878ca532
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 26, y: 4}
+  - name: MiniVillagerMan_Frame_17
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 91
+      width: 13
+      height: 13
+    spriteID: acff1756231528243916b09f38174334
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 91}
+  - name: MiniVillagerMan_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 25
+      width: 12
+      height: 13
+    spriteID: 22d874b753fa049418b7217a7f73aad3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 25}
+  - name: MiniVillagerMan_Frame_19
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 4
+      width: 13
+      height: 12
+    spriteID: ef43023f3ef118241aa56e13b7168798
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 4}
+  - name: MiniVillagerMan_Frame_20
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 24
+      width: 11
+      height: 10
+    spriteID: 31d0303450c9b3846be8b4d692228aea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 24}
+  - name: MiniVillagerMan_Frame_21
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 23
+      width: 14
+      height: 6
+    spriteID: b17dfce710fc2c04ba8104185dbdf48a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 23}
+  - name: MiniVillagerMan_Frame_22
+    originalName: 
+    pivot: {x: 0.6, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 37
+      width: 15
+      height: 4
+    spriteID: add65d9fe9497db4d943866a658664e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 37}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 42167955
+    name: MiniVillagerMan
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MiniVillagerMan_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 98e8fc4c65933f54eb40fecc362483db
+    - name: MiniVillagerMan_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 12
+      spriteId: 91100a5f71203e4488412930173edb63
+    - name: MiniVillagerMan_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 12
+      spriteId: a006202410a77c24185399f8f68066ab
+    - name: MiniVillagerMan_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 95a80cb6bb6bde744809d35560d30387
+    - name: MiniVillagerMan_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 12
+      spriteId: 808d6d6aebcf76e41a90a94501809216
+    - name: MiniVillagerMan_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 919c77fc3c03f7648b18d719a3d89a61
+    - name: MiniVillagerMan_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 11
+        y: 1
+        width: 11
+        height: 14
+      spriteId: fb3ea0eb5242ea34883086b02ae72689
+    - name: MiniVillagerMan_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 12
+      spriteId: 89545a6a534153f44933aa7d621ee3a6
+    - name: MiniVillagerMan_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: f562ad86ea29ef14195971a937d70c0d
+    - name: MiniVillagerMan_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 1912340061903ca4ebf5ce8b871e2f07
+    - name: MiniVillagerMan_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 2e1d148cdb178864d9efd2e66676851b
+    - name: MiniVillagerMan_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 49af345654aeedf4ea1c6243d9a028e5
+    - name: MiniVillagerMan_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 11
+      spriteId: a6f92707903746248973438ab7ecd593
+    - name: MiniVillagerMan_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 46186a1e9695bc046ba33925f2660cde
+    - name: MiniVillagerMan_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 303fdd2e674630944a6f49c4b291b072
+    - name: MiniVillagerMan_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 13
+      spriteId: d130a344e11f9374687162b5814225af
+    - name: MiniVillagerMan_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 7
+        y: 1
+        width: 15
+        height: 13
+      spriteId: 5be6052b41dfd4a45bad05d8878ca532
+    - name: MiniVillagerMan_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 13
+      spriteId: acff1756231528243916b09f38174334
+    - name: MiniVillagerMan_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 22d874b753fa049418b7217a7f73aad3
+    - name: MiniVillagerMan_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 12
+      spriteId: ef43023f3ef118241aa56e13b7168798
+    - name: MiniVillagerMan_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 10
+      spriteId: 31d0303450c9b3846be8b4d692228aea
+    - name: MiniVillagerMan_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 6
+      spriteId: b17dfce710fc2c04ba8104185dbdf48a
+    - name: MiniVillagerMan_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 7
+        y: 1
+        width: 15
+        height: 4
+      spriteId: add65d9fe9497db4d943866a658664e9
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

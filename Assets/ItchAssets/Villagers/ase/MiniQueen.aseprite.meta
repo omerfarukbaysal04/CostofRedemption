@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: aaa68f1973c9cf747a4ffa6842ef58d6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MiniQueen_Frame_0
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 66
+      width: 11
+      height: 14
+    spriteID: ba89e057cf766764caaa8d07e2133040
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 66}
+  - name: MiniQueen_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 75
+      width: 12
+      height: 14
+    spriteID: de267c1b16090054e95ce93d316f7116
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 75}
+  - name: MiniQueen_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 71
+      width: 12
+      height: 13
+    spriteID: 12b0e25b13fb2ef4d9c5bf5bb6836cca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 71}
+  - name: MiniQueen_Frame_3
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 88
+      width: 11
+      height: 14
+    spriteID: c272c4fb86366e847ade9774d4066997
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 88}
+  - name: MiniQueen_Frame_4
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 110
+      width: 11
+      height: 14
+    spriteID: 463e347cdea33dd4296c83a08e962b65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 110}
+  - name: MiniQueen_Frame_5
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 48
+      width: 11
+      height: 15
+    spriteID: bf43968d96ad4604da7ac17aecda4adf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 48}
+  - name: MiniQueen_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 92
+      width: 12
+      height: 13
+    spriteID: 4f05ee69d570f4d47ac5acc8e00c4009
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 92}
+  - name: MiniQueen_Frame_7
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 23
+      width: 11
+      height: 14
+    spriteID: eab8f92d97b344141a3b1b10ece65abf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 23}
+  - name: MiniQueen_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 29
+      width: 12
+      height: 15
+    spriteID: 1de9f1643fd79ff489c984081736118b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 29}
+  - name: MiniQueen_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 24
+      width: 12
+      height: 13
+    spriteID: 77bc73a5f32b89243b57fe9a21483fa7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 24}
+  - name: MiniQueen_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.13333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 52
+      width: 12
+      height: 15
+    spriteID: af1192a7f3d272f45b21aac57b3eb145
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 52}
+  - name: MiniQueen_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 12
+      height: 17
+    spriteID: cc0b6157fa0a0c2459af2f012af8e35d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MiniQueen_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 4
+      width: 14
+      height: 12
+    spriteID: 130861ff1ad06b0439419412e9337bf6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 4}
+  - name: MiniQueen_Frame_13
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 45
+      width: 11
+      height: 14
+    spriteID: 785a7c68fb2683646b33c0b38c6b9804
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 45}
+  - name: MiniQueen_Frame_14
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 67
+      width: 11
+      height: 14
+    spriteID: b5101ad6fc4b8e248af87307cc863f2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 67}
+  - name: MiniQueen_Frame_15
+    originalName: 
+    pivot: {x: 0.5833334, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 97
+      width: 12
+      height: 14
+    spriteID: f6f18b42aa5833444900ab4c6adcacf8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 97}
+  - name: MiniQueen_Frame_16
+    originalName: 
+    pivot: {x: 0.61538464, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 4
+      width: 13
+      height: 14
+    spriteID: 1d76c8ada5996e645861f063f75e871d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 4}
+  - name: MiniQueen_Frame_17
+    originalName: 
+    pivot: {x: 0.5833334, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 26
+      width: 12
+      height: 14
+    spriteID: 898d34a3a96381945a9447878b492829
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 26}
+  - name: MiniQueen_Frame_18
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 89
+      width: 11
+      height: 14
+    spriteID: 3075ff652914e324db8659206e47bc0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 89}
+  - name: MiniQueen_Frame_19
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 45
+      width: 12
+      height: 13
+    spriteID: 917f51b3d5362774794288a2b790b845
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 45}
+  - name: MiniQueen_Frame_20
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 4
+      width: 15
+      height: 11
+    spriteID: e184946dc0d493e499bd4b0b0f252957
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 4}
+  - name: MiniQueen_Frame_21
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 4
+      width: 17
+      height: 9
+    spriteID: 1a25bfff15211f24faae81db1d7780a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 4}
+  - name: MiniQueen_Frame_22
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 21
+      width: 17
+      height: 9
+    spriteID: 031092e580908c744bec1c09ff9aa46f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 21}
+  - name: MiniQueen_Frame_23
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 38
+      width: 17
+      height: 8
+    spriteID: 719620f07a688d043b21f6dbd301b722
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 38}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1191789697
+    name: MiniQueen
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MiniQueen_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: ba89e057cf766764caaa8d07e2133040
+    - name: MiniQueen_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 14
+      spriteId: de267c1b16090054e95ce93d316f7116
+    - name: MiniQueen_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 12b0e25b13fb2ef4d9c5bf5bb6836cca
+    - name: MiniQueen_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: c272c4fb86366e847ade9774d4066997
+    - name: MiniQueen_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: 463e347cdea33dd4296c83a08e962b65
+    - name: MiniQueen_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 15
+      spriteId: bf43968d96ad4604da7ac17aecda4adf
+    - name: MiniQueen_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 4f05ee69d570f4d47ac5acc8e00c4009
+    - name: MiniQueen_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: eab8f92d97b344141a3b1b10ece65abf
+    - name: MiniQueen_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 15
+      spriteId: 1de9f1643fd79ff489c984081736118b
+    - name: MiniQueen_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 77bc73a5f32b89243b57fe9a21483fa7
+    - name: MiniQueen_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 10
+        y: 2
+        width: 12
+        height: 15
+      spriteId: af1192a7f3d272f45b21aac57b3eb145
+    - name: MiniQueen_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 17
+      spriteId: cc0b6157fa0a0c2459af2f012af8e35d
+    - name: MiniQueen_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 12
+      spriteId: 130861ff1ad06b0439419412e9337bf6
+    - name: MiniQueen_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: 785a7c68fb2683646b33c0b38c6b9804
+    - name: MiniQueen_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: b5101ad6fc4b8e248af87307cc863f2e
+    - name: MiniQueen_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 9
+        y: 1
+        width: 12
+        height: 14
+      spriteId: f6f18b42aa5833444900ab4c6adcacf8
+    - name: MiniQueen_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 8
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 1d76c8ada5996e645861f063f75e871d
+    - name: MiniQueen_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 9
+        y: 1
+        width: 12
+        height: 14
+      spriteId: 898d34a3a96381945a9447878b492829
+    - name: MiniQueen_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: 3075ff652914e324db8659206e47bc0d
+    - name: MiniQueen_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 11
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 917f51b3d5362774794288a2b790b845
+    - name: MiniQueen_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 11
+        y: 1
+        width: 15
+        height: 11
+      spriteId: e184946dc0d493e499bd4b0b0f252957
+    - name: MiniQueen_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 10
+        y: 1
+        width: 17
+        height: 9
+      spriteId: 1a25bfff15211f24faae81db1d7780a6
+    - name: MiniQueen_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 10
+        y: 1
+        width: 17
+        height: 9
+      spriteId: 031092e580908c744bec1c09ff9aa46f
+    - name: MiniQueen_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 10
+        y: 1
+        width: 17
+        height: 8
+      spriteId: 719620f07a688d043b21f6dbd301b722
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

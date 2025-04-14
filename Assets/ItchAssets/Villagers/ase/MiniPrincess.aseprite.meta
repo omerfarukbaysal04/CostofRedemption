@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: 476f39063bd4ece438460b88abe03607
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MiniPrincess_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 46
+      width: 10
+      height: 14
+    spriteID: c87364bc2df922a40a4d271d9dce800c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 46}
+  - name: MiniPrincess_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 75
+      width: 12
+      height: 13
+    spriteID: 3a56653b43b8cae46bfee3b91e21b370
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 75}
+  - name: MiniPrincess_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 96
+      width: 12
+      height: 13
+    spriteID: ce8861d18b126084f87542f0872b8d1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 96}
+  - name: MiniPrincess_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 68
+      width: 10
+      height: 14
+    spriteID: 484681845997db74c9de72268fbf9a41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 68}
+  - name: MiniPrincess_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 90
+      width: 10
+      height: 14
+    spriteID: 39f8fd5517de3f948911ab623caba019
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 90}
+  - name: MiniPrincess_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 224
+      width: 10
+      height: 15
+    spriteID: d79f68db77a5cbb4084ff874c559f510
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 224}
+  - name: MiniPrincess_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 117
+      width: 12
+      height: 13
+    spriteID: 342d5e388f4cca643adff7b4fb8a5fd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 117}
+  - name: MiniPrincess_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 112
+      width: 10
+      height: 14
+    spriteID: 7502e9c1991d2cd439957bf53fe5560a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 112}
+  - name: MiniPrincess_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 52
+      width: 12
+      height: 15
+    spriteID: 0ea07303c05e90142aa10940294910c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 52}
+  - name: MiniPrincess_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 138
+      width: 12
+      height: 13
+    spriteID: 2f1195be6a368cb4a8083869b3d75ae3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 138}
+  - name: MiniPrincess_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 12
+      height: 16
+    spriteID: b6e8a8bc09cf7be4dbe86d9eaac8030a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MiniPrincess_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 28
+      width: 12
+      height: 16
+    spriteID: 53be3542c00b2f44db04fd27d72d3c1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 28}
+  - name: MiniPrincess_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 26
+      width: 12
+      height: 12
+    spriteID: c81ce545bb8b81843ad703c7c1d51eeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 26}
+  - name: MiniPrincess_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 134
+      width: 10
+      height: 14
+    spriteID: ee715ab871598d145b946fcbc30df7d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 134}
+  - name: MiniPrincess_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 156
+      width: 10
+      height: 14
+    spriteID: 230afc5b2f2400a4391e7cdc3c8bfad2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 156}
+  - name: MiniPrincess_Frame_15
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 11
+      height: 14
+    spriteID: be776444e29914b4eaadfcc43807bebd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 180}
+  - name: MiniPrincess_Frame_16
+    originalName: 
+    pivot: {x: 0.61538464, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 4
+      width: 13
+      height: 14
+    spriteID: 7d3e14d429d999f46811aab982e60644
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 4}
+  - name: MiniPrincess_Frame_17
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 202
+      width: 11
+      height: 14
+    spriteID: 0bc2f4b7221771e4db022e59dd3b3b71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 202}
+  - name: MiniPrincess_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24
+      y: 178
+      width: 10
+      height: 14
+    spriteID: 1ee9b467b86cc2643baacc113e4855db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 178}
+  - name: MiniPrincess_Frame_19
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 159
+      width: 12
+      height: 13
+    spriteID: 21af53f7145bb9d43a9bad5d9016841d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 159}
+  - name: MiniPrincess_Frame_20
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 4
+      width: 14
+      height: 11
+    spriteID: b41f142cfb9242c428deb32628afd5ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 4}
+  - name: MiniPrincess_Frame_21
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 21
+      width: 17
+      height: 8
+    spriteID: abaee7693202a2a4c86dcd49c97db5e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 21}
+  - name: MiniPrincess_Frame_22
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.11111111}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 4
+      width: 17
+      height: 9
+    spriteID: 46d3fcf2d6993404d838c337940e4b3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 4}
+  - name: MiniPrincess_Frame_23
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 4
+      width: 18
+      height: 8
+    spriteID: b7ba429d418c6934397cbb206c0b3cbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 889915442
+    name: MiniPrincess
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MiniPrincess_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: c87364bc2df922a40a4d271d9dce800c
+    - name: MiniPrincess_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 3a56653b43b8cae46bfee3b91e21b370
+    - name: MiniPrincess_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: ce8861d18b126084f87542f0872b8d1b
+    - name: MiniPrincess_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 484681845997db74c9de72268fbf9a41
+    - name: MiniPrincess_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 39f8fd5517de3f948911ab623caba019
+    - name: MiniPrincess_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 15
+      spriteId: d79f68db77a5cbb4084ff874c559f510
+    - name: MiniPrincess_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 342d5e388f4cca643adff7b4fb8a5fd9
+    - name: MiniPrincess_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 7502e9c1991d2cd439957bf53fe5560a
+    - name: MiniPrincess_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 15
+      spriteId: 0ea07303c05e90142aa10940294910c9
+    - name: MiniPrincess_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 2f1195be6a368cb4a8083869b3d75ae3
+    - name: MiniPrincess_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 16
+      spriteId: b6e8a8bc09cf7be4dbe86d9eaac8030a
+    - name: MiniPrincess_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 16
+      spriteId: 53be3542c00b2f44db04fd27d72d3c1a
+    - name: MiniPrincess_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 12
+      spriteId: c81ce545bb8b81843ad703c7c1d51eeb
+    - name: MiniPrincess_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: ee715ab871598d145b946fcbc30df7d4
+    - name: MiniPrincess_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 230afc5b2f2400a4391e7cdc3c8bfad2
+    - name: MiniPrincess_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: be776444e29914b4eaadfcc43807bebd
+    - name: MiniPrincess_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 8
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 7d3e14d429d999f46811aab982e60644
+    - name: MiniPrincess_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: 0bc2f4b7221771e4db022e59dd3b3b71
+    - name: MiniPrincess_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 1ee9b467b86cc2643baacc113e4855db
+    - name: MiniPrincess_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 11
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 21af53f7145bb9d43a9bad5d9016841d
+    - name: MiniPrincess_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 11
+        y: 1
+        width: 14
+        height: 11
+      spriteId: b41f142cfb9242c428deb32628afd5ab
+    - name: MiniPrincess_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 10
+        y: 1
+        width: 17
+        height: 8
+      spriteId: abaee7693202a2a4c86dcd49c97db5e5
+    - name: MiniPrincess_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 10
+        y: 1
+        width: 17
+        height: 9
+      spriteId: 46d3fcf2d6993404d838c337940e4b3c
+    - name: MiniPrincess_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 10
+        y: 1
+        width: 18
+        height: 8
+      spriteId: b7ba429d418c6934397cbb206c0b3cbc
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

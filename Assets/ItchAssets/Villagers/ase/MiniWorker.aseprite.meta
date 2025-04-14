@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 663a22d423dbf3546ba0fb389162f255
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MiniWorker_Frame_0
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 235
+      width: 14
+      height: 13
+    spriteID: 96a8a6421b36e5e4680e83fcb1fca5b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 235}
+  - name: MiniWorker_Frame_1
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 4
+      width: 14
+      height: 12
+    spriteID: 86b943c5a374fe948a0bee5e6eae29c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 4}
+  - name: MiniWorker_Frame_2
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 24
+      width: 14
+      height: 12
+    spriteID: 5103a89e39bd5b041af0cddec0db9757
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 24}
+  - name: MiniWorker_Frame_3
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 26
+      width: 14
+      height: 13
+    spriteID: 213ad7ac57e68e04f90745cf6f5af6fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 26}
+  - name: MiniWorker_Frame_4
+    originalName: 
+    pivot: {x: 0.4375, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 215
+      width: 16
+      height: 12
+    spriteID: 1d1ee45456ff0204c9a1b02c0cd9396f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 215}
+  - name: MiniWorker_Frame_5
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 47
+      width: 14
+      height: 13
+    spriteID: 69e9eed958f7b9c4796c2b890b4d1a96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 47}
+  - name: MiniWorker_Frame_6
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 44
+      width: 12
+      height: 14
+    spriteID: 53175e79c25e200438aea5e9a6f4237d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 44}
+  - name: MiniWorker_Frame_7
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 112
+      width: 12
+      height: 12
+    spriteID: f1bf2309973145440976e7337f25b844
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 112}
+  - name: MiniWorker_Frame_8
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 68
+      width: 14
+      height: 13
+    spriteID: 16f3bfdaee2abd94182f7db7cc3eedbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 68}
+  - name: MiniWorker_Frame_9
+    originalName: 
+    pivot: {x: 0.4375, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 16
+      height: 14
+    spriteID: c7972b2126770594d8ea573b6a046927
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MiniWorker_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 109
+      width: 14
+      height: 14
+    spriteID: a65f516758f91b149946e84bf6f2cfc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 109}
+  - name: MiniWorker_Frame_11
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 46
+      width: 15
+      height: 14
+    spriteID: e19157c869d07db49ab9d4259b507ac0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 46}
+  - name: MiniWorker_Frame_12
+    originalName: 
+    pivot: {x: 0.4375, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 214
+      width: 16
+      height: 11
+    spriteID: c97bf585cec4cfc4994f4f269481b030
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 214}
+  - name: MiniWorker_Frame_13
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 89
+      width: 14
+      height: 13
+    spriteID: 865f6fd39d77a0a40937b8b915c1e986
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 89}
+  - name: MiniWorker_Frame_14
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 110
+      width: 14
+      height: 13
+    spriteID: 73e71a37c401ec04cbc689a801520b5e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 110}
+  - name: MiniWorker_Frame_15
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 233
+      width: 13
+      height: 13
+    spriteID: 81a030976d672a24dbad8c9b5758ba8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 233}
+  - name: MiniWorker_Frame_16
+    originalName: 
+    pivot: {x: 0.6, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 89
+      width: 10
+      height: 15
+    spriteID: 95e6bd8688e7122429bf0c610e2118ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 89}
+  - name: MiniWorker_Frame_17
+    originalName: 
+    pivot: {x: 0.3529412, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 4
+      width: 17
+      height: 13
+    spriteID: 4928c9fa1da584148831be47a38ecf32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 4}
+  - name: MiniWorker_Frame_18
+    originalName: 
+    pivot: {x: 0.375, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 68
+      width: 16
+      height: 13
+    spriteID: 3a373674c99190d4f807033e8a767932
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 68}
+  - name: MiniWorker_Frame_19
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 131
+      width: 14
+      height: 13
+    spriteID: 0129d6fad67274441acb3559fe37807b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 131}
+  - name: MiniWorker_Frame_20
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 4
+      width: 13
+      height: 13
+    spriteID: ac3349319238fd44e8b33010d62c3c4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 4}
+  - name: MiniWorker_Frame_21
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 66
+      width: 11
+      height: 15
+    spriteID: a82ad86ad9ab0b84990bf4ba5ece6b63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 66}
+  - name: MiniWorker_Frame_22
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 89
+      width: 17
+      height: 12
+    spriteID: 514a0e8d27b629e409f71098806b2dd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 89}
+  - name: MiniWorker_Frame_23
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 131
+      width: 15
+      height: 13
+    spriteID: a7aa131acaa49eb49b08fba95ad8419d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 131}
+  - name: MiniWorker_Frame_24
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 152
+      width: 15
+      height: 13
+    spriteID: 69e6242d1fcf8ec4ea4ab4ecf56da95c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 152}
+  - name: MiniWorker_Frame_25
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 152
+      width: 14
+      height: 13
+    spriteID: 75dac17fc95af0d40aa42a1b4931a3a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 152}
+  - name: MiniWorker_Frame_26
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 173
+      width: 15
+      height: 13
+    spriteID: f7f99ce690315c347a921b9fd8257872
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 173}
+  - name: MiniWorker_Frame_27
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 25
+      width: 17
+      height: 13
+    spriteID: 3135bc77cd4f3884ba9d67022d32a62d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 25}
+  - name: MiniWorker_Frame_28
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 194
+      width: 15
+      height: 13
+    spriteID: bcbe8cb7f4e2b9f4ca240f86e07e3bb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 194}
+  - name: MiniWorker_Frame_29
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 173
+      width: 14
+      height: 13
+    spriteID: 614def1b7285741478bfc98873383114
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 173}
+  - name: MiniWorker_Frame_30
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 194
+      width: 15
+      height: 12
+    spriteID: f14f9ab7b126d0e43a350085b3e4db94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 194}
+  - name: MiniWorker_Frame_31
+    originalName: 
+    pivot: {x: 0.4666667, y: -0.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 4
+      width: 15
+      height: 10
+    spriteID: 53b7570c94978284c976237df7644eff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 4}
+  - name: MiniWorker_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 22
+      width: 16
+      height: 6
+    spriteID: c6588db5d8f7bbc4d8447c47251a5b4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 22}
+  - name: MiniWorker_Frame_33
+    originalName: 
+    pivot: {x: 0.5294118, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 36
+      width: 17
+      height: 4
+    spriteID: 175f6c9a2e230564096275144a05c84b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 36}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 2042685889
+    name: MiniWorker
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MiniWorker_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 96a8a6421b36e5e4680e83fcb1fca5b6
+    - name: MiniWorker_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 12
+      spriteId: 86b943c5a374fe948a0bee5e6eae29c3
+    - name: MiniWorker_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 12
+      spriteId: 5103a89e39bd5b041af0cddec0db9757
+    - name: MiniWorker_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 213ad7ac57e68e04f90745cf6f5af6fe
+    - name: MiniWorker_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 9
+        y: 1
+        width: 16
+        height: 12
+      spriteId: 1d1ee45456ff0204c9a1b02c0cd9396f
+    - name: MiniWorker_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 69e9eed958f7b9c4796c2b890b4d1a96
+    - name: MiniWorker_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 11
+        y: 1
+        width: 12
+        height: 14
+      spriteId: 53175e79c25e200438aea5e9a6f4237d
+    - name: MiniWorker_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 11
+        y: 1
+        width: 12
+        height: 12
+      spriteId: f1bf2309973145440976e7337f25b844
+    - name: MiniWorker_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 16f3bfdaee2abd94182f7db7cc3eedbc
+    - name: MiniWorker_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 9
+        y: 1
+        width: 16
+        height: 14
+      spriteId: c7972b2126770594d8ea573b6a046927
+    - name: MiniWorker_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 9
+        y: 1
+        width: 14
+        height: 14
+      spriteId: a65f516758f91b149946e84bf6f2cfc8
+    - name: MiniWorker_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 9
+        y: 1
+        width: 15
+        height: 14
+      spriteId: e19157c869d07db49ab9d4259b507ac0
+    - name: MiniWorker_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 1
+        width: 16
+        height: 11
+      spriteId: c97bf585cec4cfc4994f4f269481b030
+    - name: MiniWorker_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 865f6fd39d77a0a40937b8b915c1e986
+    - name: MiniWorker_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 73e71a37c401ec04cbc689a801520b5e
+    - name: MiniWorker_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 13
+      spriteId: 81a030976d672a24dbad8c9b5758ba8a
+    - name: MiniWorker_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 10
+        y: 1
+        width: 10
+        height: 15
+      spriteId: 95e6bd8688e7122429bf0c610e2118ca
+    - name: MiniWorker_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 10
+        y: 1
+        width: 17
+        height: 13
+      spriteId: 4928c9fa1da584148831be47a38ecf32
+    - name: MiniWorker_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 10
+        y: 1
+        width: 16
+        height: 13
+      spriteId: 3a373674c99190d4f807033e8a767932
+    - name: MiniWorker_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 0129d6fad67274441acb3559fe37807b
+    - name: MiniWorker_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 10
+        y: 1
+        width: 13
+        height: 13
+      spriteId: ac3349319238fd44e8b33010d62c3c4b
+    - name: MiniWorker_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 15
+      spriteId: a82ad86ad9ab0b84990bf4ba5ece6b63
+    - name: MiniWorker_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 9
+        y: 1
+        width: 17
+        height: 12
+      spriteId: 514a0e8d27b629e409f71098806b2dd4
+    - name: MiniWorker_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 10
+        y: 1
+        width: 15
+        height: 13
+      spriteId: a7aa131acaa49eb49b08fba95ad8419d
+    - name: MiniWorker_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 10
+        y: 1
+        width: 15
+        height: 13
+      spriteId: 69e6242d1fcf8ec4ea4ab4ecf56da95c
+    - name: MiniWorker_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 75dac17fc95af0d40aa42a1b4931a3a6
+    - name: MiniWorker_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 9
+        y: 1
+        width: 15
+        height: 13
+      spriteId: f7f99ce690315c347a921b9fd8257872
+    - name: MiniWorker_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 7
+        y: 1
+        width: 17
+        height: 13
+      spriteId: 3135bc77cd4f3884ba9d67022d32a62d
+    - name: MiniWorker_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 9
+        y: 1
+        width: 15
+        height: 13
+      spriteId: bcbe8cb7f4e2b9f4ca240f86e07e3bb0
+    - name: MiniWorker_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 10
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 614def1b7285741478bfc98873383114
+    - name: MiniWorker_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 9
+        y: 1
+        width: 15
+        height: 12
+      spriteId: f14f9ab7b126d0e43a350085b3e4db94
+    - name: MiniWorker_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 9
+        y: 1
+        width: 15
+        height: 10
+      spriteId: 53b7570c94978284c976237df7644eff
+    - name: MiniWorker_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 8
+        y: 1
+        width: 16
+        height: 6
+      spriteId: c6588db5d8f7bbc4d8447c47251a5b4f
+    - name: MiniWorker_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 7
+        y: 1
+        width: 17
+        height: 4
+      spriteId: 175f6c9a2e230564096275144a05c84b
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

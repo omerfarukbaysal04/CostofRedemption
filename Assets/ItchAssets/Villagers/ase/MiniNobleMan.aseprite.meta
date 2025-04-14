@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: b910ef1c93e31b54c99cb1cbe7dcc31a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MiniNobleMan_Frame_0
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 26
+      width: 14
+      height: 14
+    spriteID: ba85f89807f262640bbd9c5be0a64b29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 26}
+  - name: MiniNobleMan_Frame_1
+    originalName: 
+    pivot: {x: 0.6, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 69
+      width: 15
+      height: 13
+    spriteID: e14db9444bec4ca4a8a1cede605f41f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 69}
+  - name: MiniNobleMan_Frame_2
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 25
+      width: 14
+      height: 13
+    spriteID: 879d3f09e6424c542aa23adddb619e58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 25}
+  - name: MiniNobleMan_Frame_3
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 46
+      width: 13
+      height: 14
+    spriteID: 81e3bcd13c685be41b6bcb2239cb367d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 46}
+  - name: MiniNobleMan_Frame_4
+    originalName: 
+    pivot: {x: 0.5625, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 4
+      width: 16
+      height: 13
+    spriteID: aebf46b5691ebac4190f098d069dce71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 4}
+  - name: MiniNobleMan_Frame_5
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 48
+      width: 14
+      height: 14
+    spriteID: 3ef3ad8c66b0e274f85601a23c70852e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 48}
+  - name: MiniNobleMan_Frame_6
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 51
+      width: 14
+      height: 15
+    spriteID: 3b3dad23e6bf8da419c16b4eb17fc754
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 51}
+  - name: MiniNobleMan_Frame_7
+    originalName: 
+    pivot: {x: 0.6428572, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 68
+      width: 14
+      height: 13
+    spriteID: 7897dbd26ad464e43afdc02794121654
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 68}
+  - name: MiniNobleMan_Frame_8
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 70
+      width: 14
+      height: 14
+    spriteID: 044db3b8a6143454788f115ff855114f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 70}
+  - name: MiniNobleMan_Frame_9
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 28
+      width: 15
+      height: 15
+    spriteID: d8917de410adfc144a074eed76650022
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 28}
+  - name: MiniNobleMan_Frame_10
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 90
+      width: 13
+      height: 15
+    spriteID: 33e5dc837132419428ecc12a3c91e686
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 90}
+  - name: MiniNobleMan_Frame_11
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 15
+      height: 16
+    spriteID: a8271ed9ab6f158498fc3e7471872b64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MiniNobleMan_Frame_12
+    originalName: 
+    pivot: {x: 0.5625, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 4
+      width: 16
+      height: 12
+    spriteID: cb14a33678a756547a2a4a90bdd605ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 4}
+  - name: MiniNobleMan_Frame_13
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 92
+      width: 14
+      height: 14
+    spriteID: 36f0d08e7a6ac4649858c11c33cde373
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 92}
+  - name: MiniNobleMan_Frame_14
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 25
+      width: 14
+      height: 14
+    spriteID: 1ebb2ee4ebabf9c4b9da33b077531a07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 25}
+  - name: MiniNobleMan_Frame_15
+    originalName: 
+    pivot: {x: 0.6, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 74
+      width: 15
+      height: 14
+    spriteID: 34921f09e8b5f934d9c97669f1b4fc99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 74}
+  - name: MiniNobleMan_Frame_16
+    originalName: 
+    pivot: {x: 0.6, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 96
+      width: 15
+      height: 14
+    spriteID: 3dc68c9e2caacc341af054b8ad03febc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 96}
+  - name: MiniNobleMan_Frame_17
+    originalName: 
+    pivot: {x: 0.6, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 4
+      width: 15
+      height: 14
+    spriteID: 252166e93b644ab46a63236d7b88bb33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 4}
+  - name: MiniNobleMan_Frame_18
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 47
+      width: 14
+      height: 14
+    spriteID: 0d22a8ebed1352b4186c87b3173a4966
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 47}
+  - name: MiniNobleMan_Frame_19
+    originalName: 
+    pivot: {x: 0.6, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 4
+      width: 15
+      height: 13
+    spriteID: 05ffff8999596c54f98c45a959162638
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 4}
+  - name: MiniNobleMan_Frame_20
+    originalName: 
+    pivot: {x: 0.6428572, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 113
+      width: 14
+      height: 11
+    spriteID: a2be0ea5bef614f469588acf00d5c947
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 113}
+  - name: MiniNobleMan_Frame_21
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 118
+      width: 14
+      height: 6
+    spriteID: e25fc79eb1124e44fb37c0d32a11e81e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 118}
+  - name: MiniNobleMan_Frame_22
+    originalName: 
+    pivot: {x: 0.6, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 27
+      y: 114
+      width: 15
+      height: 4
+    spriteID: 90372e6a410bb1145913071ac272659a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 27, y: 114}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -217005413
+    name: MiniNobleMan
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MiniNobleMan_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 14
+      spriteId: ba85f89807f262640bbd9c5be0a64b29
+    - name: MiniNobleMan_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 7
+        y: 1
+        width: 15
+        height: 13
+      spriteId: e14db9444bec4ca4a8a1cede605f41f8
+    - name: MiniNobleMan_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 879d3f09e6424c542aa23adddb619e58
+    - name: MiniNobleMan_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 81e3bcd13c685be41b6bcb2239cb367d
+    - name: MiniNobleMan_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 7
+        y: 1
+        width: 16
+        height: 13
+      spriteId: aebf46b5691ebac4190f098d069dce71
+    - name: MiniNobleMan_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 3ef3ad8c66b0e274f85601a23c70852e
+    - name: MiniNobleMan_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 15
+      spriteId: 3b3dad23e6bf8da419c16b4eb17fc754
+    - name: MiniNobleMan_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 7
+        y: 1
+        width: 14
+        height: 13
+      spriteId: 7897dbd26ad464e43afdc02794121654
+    - name: MiniNobleMan_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 044db3b8a6143454788f115ff855114f
+    - name: MiniNobleMan_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 15
+      spriteId: d8917de410adfc144a074eed76650022
+    - name: MiniNobleMan_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 15
+      spriteId: 33e5dc837132419428ecc12a3c91e686
+    - name: MiniNobleMan_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 16
+      spriteId: a8271ed9ab6f158498fc3e7471872b64
+    - name: MiniNobleMan_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 7
+        y: 1
+        width: 16
+        height: 12
+      spriteId: cb14a33678a756547a2a4a90bdd605ab
+    - name: MiniNobleMan_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 36f0d08e7a6ac4649858c11c33cde373
+    - name: MiniNobleMan_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 1ebb2ee4ebabf9c4b9da33b077531a07
+    - name: MiniNobleMan_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 7
+        y: 1
+        width: 15
+        height: 14
+      spriteId: 34921f09e8b5f934d9c97669f1b4fc99
+    - name: MiniNobleMan_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 7
+        y: 1
+        width: 15
+        height: 14
+      spriteId: 3dc68c9e2caacc341af054b8ad03febc
+    - name: MiniNobleMan_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 7
+        y: 1
+        width: 15
+        height: 14
+      spriteId: 252166e93b644ab46a63236d7b88bb33
+    - name: MiniNobleMan_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 0d22a8ebed1352b4186c87b3173a4966
+    - name: MiniNobleMan_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 7
+        y: 1
+        width: 15
+        height: 13
+      spriteId: 05ffff8999596c54f98c45a959162638
+    - name: MiniNobleMan_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 7
+        y: 1
+        width: 14
+        height: 11
+      spriteId: a2be0ea5bef614f469588acf00d5c947
+    - name: MiniNobleMan_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 8
+        y: 1
+        width: 14
+        height: 6
+      spriteId: e25fc79eb1124e44fb37c0d32a11e81e
+    - name: MiniNobleMan_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 7
+        y: 1
+        width: 15
+        height: 4
+      spriteId: 90372e6a410bb1145913071ac272659a
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

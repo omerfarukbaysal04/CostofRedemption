@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: c5e744dfec0bac34eb38a55bea6ad490
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: MiniNobleWoman_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 26
+      width: 10
+      height: 14
+    spriteID: 96a42f4088b03364cb70d51a039e5670
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 26}
+  - name: MiniNobleWoman_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 4
+      width: 12
+      height: 13
+    spriteID: 0efb27a4f262dfb479b3d57315e03f18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 4}
+  - name: MiniNobleWoman_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 25
+      width: 12
+      height: 13
+    spriteID: b585ca5f4f010674492cd409da7cb990
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 25}
+  - name: MiniNobleWoman_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 48
+      width: 10
+      height: 14
+    spriteID: 33652804cdf6944418ed6719a0ab3086
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 48}
+  - name: MiniNobleWoman_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 70
+      width: 10
+      height: 14
+    spriteID: 22df42ea07d74d24e87fe17f72471dbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 70}
+  - name: MiniNobleWoman_Frame_5
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 97
+      width: 11
+      height: 15
+    spriteID: c3f8e1df8673b0240a8457ccbbd9e387
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 97}
+  - name: MiniNobleWoman_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 46
+      width: 12
+      height: 13
+    spriteID: 1ef73bacac984a44d9c02adbcd8e6167
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 46}
+  - name: MiniNobleWoman_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 92
+      width: 10
+      height: 14
+    spriteID: 53855de4d7fbdd8418acfb61c33c091c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 92}
+  - name: MiniNobleWoman_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 74
+      width: 12
+      height: 15
+    spriteID: 2ef4b3e1c8c4cb04f968532a20e7bcb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 74}
+  - name: MiniNobleWoman_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 67
+      width: 12
+      height: 13
+    spriteID: 2c3710927e560e24cba5bf9f9f7ca7f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 67}
+  - name: MiniNobleWoman_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 28
+      width: 12
+      height: 16
+    spriteID: a43a91848d61c044fba03bba792a8df7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 28}
+  - name: MiniNobleWoman_Frame_11
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 13
+      height: 16
+    spriteID: de3fe8db2372d5e4d8bd8b99aaed1c88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: MiniNobleWoman_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 4
+      width: 12
+      height: 12
+    spriteID: fce388d1a3c725b48bf6d318872beda5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 4}
+  - name: MiniNobleWoman_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 24
+      width: 10
+      height: 14
+    spriteID: 8b8b12a757565f3419d7e130ad708d1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 24}
+  - name: MiniNobleWoman_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 46
+      width: 10
+      height: 14
+    spriteID: 8e64bb8d0a141384d94f56dd9a731bca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 46}
+  - name: MiniNobleWoman_Frame_15
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 109
+      width: 11
+      height: 14
+    spriteID: abc6ff7ad25d6c143a04d6f12de8113f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 109}
+  - name: MiniNobleWoman_Frame_16
+    originalName: 
+    pivot: {x: 0.61538464, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 52
+      width: 13
+      height: 14
+    spriteID: 0ea49ea8a34b84441832673e08c4effe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 52}
+  - name: MiniNobleWoman_Frame_17
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 4
+      width: 11
+      height: 14
+    spriteID: 700253097134aa0488e9265c08992625
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 4}
+  - name: MiniNobleWoman_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 68
+      width: 10
+      height: 14
+    spriteID: 5abf161e35001b048b40874333bbafea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 68}
+  - name: MiniNobleWoman_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: -0.07692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 25
+      y: 88
+      width: 12
+      height: 13
+    spriteID: af35405db10ad73499f6905790b35ee0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 25, y: 88}
+  - name: MiniNobleWoman_Frame_20
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 45
+      y: 114
+      width: 11
+      height: 10
+    spriteID: 97b33c09b3d50cb45b27a5f7bc3b1d26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 45, y: 114}
+  - name: MiniNobleWoman_Frame_21
+    originalName: 
+    pivot: {x: 0.61538464, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 4
+      width: 13
+      height: 6
+    spriteID: 1d21fe3b590823f47aaf074ea635026a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 4}
+  - name: MiniNobleWoman_Frame_22
+    originalName: 
+    pivot: {x: 0.6, y: -0.33333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 4
+      width: 15
+      height: 3
+    spriteID: a70acbaffb6d14b49a3ce26d6979a038
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -88605537
+    name: MiniNobleWoman
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: MiniNobleWoman_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 96a42f4088b03364cb70d51a039e5670
+    - name: MiniNobleWoman_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 0efb27a4f262dfb479b3d57315e03f18
+    - name: MiniNobleWoman_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: b585ca5f4f010674492cd409da7cb990
+    - name: MiniNobleWoman_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 33652804cdf6944418ed6719a0ab3086
+    - name: MiniNobleWoman_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 22df42ea07d74d24e87fe17f72471dbc
+    - name: MiniNobleWoman_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 15
+      spriteId: c3f8e1df8673b0240a8457ccbbd9e387
+    - name: MiniNobleWoman_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 1ef73bacac984a44d9c02adbcd8e6167
+    - name: MiniNobleWoman_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 53855de4d7fbdd8418acfb61c33c091c
+    - name: MiniNobleWoman_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 15
+      spriteId: 2ef4b3e1c8c4cb04f968532a20e7bcb6
+    - name: MiniNobleWoman_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: 2c3710927e560e24cba5bf9f9f7ca7f3
+    - name: MiniNobleWoman_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 16
+      spriteId: a43a91848d61c044fba03bba792a8df7
+    - name: MiniNobleWoman_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 9
+        y: 1
+        width: 13
+        height: 16
+      spriteId: de3fe8db2372d5e4d8bd8b99aaed1c88
+    - name: MiniNobleWoman_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 12
+      spriteId: fce388d1a3c725b48bf6d318872beda5
+    - name: MiniNobleWoman_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 8b8b12a757565f3419d7e130ad708d1d
+    - name: MiniNobleWoman_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 8e64bb8d0a141384d94f56dd9a731bca
+    - name: MiniNobleWoman_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: abc6ff7ad25d6c143a04d6f12de8113f
+    - name: MiniNobleWoman_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 8
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 0ea49ea8a34b84441832673e08c4effe
+    - name: MiniNobleWoman_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 14
+      spriteId: 700253097134aa0488e9265c08992625
+    - name: MiniNobleWoman_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 5abf161e35001b048b40874333bbafea
+    - name: MiniNobleWoman_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 13
+      spriteId: af35405db10ad73499f6905790b35ee0
+    - name: MiniNobleWoman_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 10
+      spriteId: 97b33c09b3d50cb45b27a5f7bc3b1d26
+    - name: MiniNobleWoman_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 8
+        y: 1
+        width: 13
+        height: 6
+      spriteId: 1d21fe3b590823f47aaf074ea635026a
+    - name: MiniNobleWoman_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 7
+        y: 1
+        width: 15
+        height: 3
+      spriteId: a70acbaffb6d14b49a3ce26d6979a038
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}
